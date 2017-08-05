@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><keysSettings>
+    <action id="moveForward">
+        <key>z</key>
+    </action>
+    <action id="moveBackward">
+        <key>s</key>
+    </action>
+    <action id="moveRight">
+        <key>d</key>
+    </action>
+    <action id="moveLeft">
+        <key>q</key>
+    </action>
+    <action id="NextWeapon">
+        <key>Mouse Down</key>
+    </action>
+    <action id="PreviousWeapon">
+        <key>Mouse Up</key>
+    </action>
+    <action id="Reload">
+        <key>r</key>
+    </action>
+        <action id="LightSwitch">
+        <key>g</key>
+    </action>
+</keysSettings>
